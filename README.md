@@ -29,7 +29,7 @@ typedef struct {
     char prenom[50];
     float moyennes[NB_MATIERE];
 } Etudiant;
-
+```
 Le choix de cette structure est justifié par la simplicité et l'efficacité pour stocker et manipuler les informations d'un étudiant dans un programme de petite envergure.
 
 
